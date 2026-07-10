@@ -1,4 +1,4 @@
-# Kanishka Chaudhary — Portfolio Website
+# Kanishka Chaudhary ~ Portfolio Website
 
 Welcome to the official repository for my personal portfolio website, featuring a modern, highly interactive, and premium developer dashboard. The site showcases my work as an IT Engineer, Google Student Ambassador, and Creative Technologist.
 
