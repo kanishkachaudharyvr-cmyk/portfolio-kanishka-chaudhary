@@ -224,8 +224,8 @@ function Hero() {
   const opacity = useTransform(scrollYProgress, [0, 0.8], [1, 0]);
 
   const socials = [
-    { label: "LinkedIn", icon: Linkedin, href: "https://linkedin.com/in/kanishka-chaudhary-41505a292" },
-    { label: "GitHub", icon: Github, href: "https://github.com/kanishkacodes" },
+    { label: "LinkedIn", icon: Linkedin, href: "https://www.linkedin.com/in/kanishkachaudhary/" },
+    { label: "GitHub", icon: Github, href: "https://github.com/kanishkachaudharyvr-cmyk" },
   ];
 
   return (
@@ -600,7 +600,7 @@ function Contact() {
           <a href="mailto:kanishkachaudhary.vr@gmail.com" className="inline-flex items-center gap-2 rounded-full bg-primary px-7 py-3.5 text-sm font-medium text-primary-foreground transition hover:bg-ochre hover:text-foreground">
             Say hello <ArrowUpRight className="h-4 w-4" />
           </a>
-          <a href="https://linkedin.com/in/kanishkachaudhary" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full border border-background/25 px-6 py-3.5 text-sm font-medium transition hover:bg-background/10">
+          <a href="https://www.linkedin.com/in/kanishkachaudhary/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full border border-background/25 px-6 py-3.5 text-sm font-medium transition hover:bg-background/10">
             <Linkedin className="h-4 w-4" /> LinkedIn
           </a>
           <a href="https://github.com/kanishkachaudharyvr-cmyk" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full border border-background/25 px-6 py-3.5 text-sm font-medium transition hover:bg-background/10">
